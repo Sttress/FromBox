@@ -188,3 +188,4 @@ C:\Users\Lucaz\OneDrive\Área de Trabalho\FB\FromBox.Back-End\FromBox\bin\Debug\
 C:\Users\Lucaz\OneDrive\Área de Trabalho\FB\FromBox.Back-End\FromBox\obj\Debug\netcoreapp3.1\FromBox.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Lucaz\OneDrive\Área de Trabalho\FB\FromBox.Back-End\FromBox\obj\Debug\netcoreapp3.1\ref\FromBox.dll
 C:\Users\Lucaz\OneDrive\Área de Trabalho\FB\FromBox.Back-End\FromBox\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Lucaz\OneDrive\Área de Trabalho\FB\FromBox.Back-End\FromBox\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

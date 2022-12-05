@@ -19,7 +19,7 @@ namespace FromBox.Controllers
         }
 
         [HttpGet]
-        [Route("")]
+        [Route("lista")]
         public ActionResult GetList()
         {
             try
@@ -34,7 +34,7 @@ namespace FromBox.Controllers
         }
 
         [HttpGet]
-        [Route("ID")]
+        [Route("porId")]
         public ActionResult GetForId(int Id)
         {
             try
@@ -48,7 +48,7 @@ namespace FromBox.Controllers
             }
         }
         [HttpPost]
-        [Route("")]
+        [Route("create")]
         public ActionResult Create(Produto modelo)
         {
             try
@@ -65,7 +65,7 @@ namespace FromBox.Controllers
         }
 
         [HttpPut]
-        [Route("")]
+        [Route("edit")]
         public ActionResult Edit(Produto modelo)
         {
             try
@@ -86,7 +86,7 @@ namespace FromBox.Controllers
         }
 
         [HttpDelete]
-        [Route("")]
+        [Route("delete")]
         public ActionResult Delete(int Id)
         {
             try
